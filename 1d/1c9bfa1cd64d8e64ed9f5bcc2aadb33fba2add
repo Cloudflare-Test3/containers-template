@@ -1,0 +1,19 @@
+README.md
+  s_1559731a469164::t_a6eba74a8c8cdb 60
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1d1c9bfa1cd64d8e64ed9f5bcc2aadb33fba2add",
+  "prompts": {},
+  "sessions": {
+    "s_1559731a469164": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_029682e71ffe5kbLHbaxzbEMp2",
+        "model": "claude-sonnet-4-5"
+      },
+      "human_author": "hsonmez <hsonmez@cloudflare.com>"
+    }
+  }
+}
